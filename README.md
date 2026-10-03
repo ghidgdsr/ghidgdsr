@@ -1,7 +1,9 @@
 ![img](https://raw.githubusercontent.com/ghidgdsr/ghidgdsr/refs/heads/main/img/20260817-015725-2df72b.jpg)
 
-## Hi there 👋
+# Hi there 👋
 
-### Welcome to my GitHub profile(GayHub approx.😼)
+## Welcome to my GitHub(GayHub approx.😼)
 
-Let's diving into the magic of coding!
+Otakus Save The World
+
+'Cause They're The Aces in Their Souls.
