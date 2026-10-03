@@ -1,4 +1,4 @@
-![img](https://github.com/ghidgdsr/ghidgdsr/img/top.png)
+![img](https://github.com/ghidgdsr/ghidgdsr/img/20260817-015725-2df72b.jpg)
 
 ## Hi there 👋
 
