@@ -15,10 +15,10 @@ Otakus Save The World
 
 ![Docsify](https://github.com/docsifyjs/docsify)  --Create Your Own Docs w/ Markdown!
 
-![DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (DeepSeek)  --It's The Whale!
+![DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (DeepSeek)  --It's That Whale!
 
 ![Dopamine](https://github.com/torvalds/linux)  --Make Jailbreak Great Again!
 
-![Sms Forwarder 短信转发器](https://github.com/pppscn/SmsForwarder)  --Free Your SIM Card!
+![Sms Forwarder](https://github.com/pppscn/SmsForwarder)  --Free Your SIM Card!
 
 ...
