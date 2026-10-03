@@ -17,7 +17,7 @@ Otakus Save The World
 
 ![DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (DeepSeek)  --It's That Whale!
 
-![Dopamine](https://github.com/torvalds/linux)  --Make Jailbreak Great Again!
+![Dopamine](https://github.com/opa334/Dopamine)  --Make Jailbreak Great Again!
 
 ![Sms Forwarder](https://github.com/pppscn/SmsForwarder)  --Free Your SIM Card!
 
